@@ -1,1 +1,1 @@
-# this is locale repo
+# this is locale repo(dropdown)
